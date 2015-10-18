@@ -121,6 +121,11 @@ p
 	float:right;
 }
 
+.division 
+{
+	font-style: italic;
+}
+
 .expUnit .project-list li
 {
     list-style-type: circle;
