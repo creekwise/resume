@@ -1,0 +1,176 @@
+html 
+{
+	overflow-y:scroll;
+}
+
+body 
+{
+	background-color: #FFF;
+	margin: 0px;
+	padding: 0px;
+	font-family:'Open Sans', Arial;
+	font-size: 14px;
+	width:960px;
+}
+
+/*-------------------------------------------------------*/
+/* Typography */
+/*-------------------------------------------------------*/
+
+h1 { font-size: 37px;  }
+h2 { font-size: 30px; font-weight:bold; }
+h3 { font-size: 20px; }
+h4 { font-size: 18px; font-weight:bold; }
+
+h3.underline span
+{
+     font-size:16px;
+}
+
+.underline
+{
+    border-bottom:1px solid #999;
+}
+
+
+strong 
+{
+	font-weight: bold;
+	color: #333;
+}
+
+#resume
+{
+	margin-left:20px;
+}
+
+#resume-head
+{
+	/* border-bottom:1px solid #999; */
+	margin-top: 20px;
+}
+
+#contactInfo
+{
+	/* font-size:14px; */
+	text-align:right;
+}
+
+a
+{
+	color:#0066CC;
+}
+
+a:hover
+{
+	color:#FFF;
+	background-color:#0066CC;
+}
+
+#resume-main
+{
+	margin-top: 30px;
+}
+
+p
+{
+	margin-top: 5px;
+}
+
+#timeline-col
+{
+	width:660px;
+	float:left;
+}
+
+.tech
+{
+    background-color:#CCFF99;
+    font-weight:bold;
+}
+
+.simpleBold
+{
+    font-weight:bold;
+}
+
+.expUnit 
+{
+	line-height:17px;
+	/* color: #444; */
+	border-left:1px solid #fadc66;
+	padding-left:15px;
+	margin-top: 15px;
+}
+
+.expUnit p
+{
+	margin-top: 5px;
+}
+
+.project-list
+{
+	margin-top: 5px;
+}
+
+.timelineDate 
+{
+	line-height:17px;
+	color: #f4c024;
+	font-size:14px;
+	float:right;
+}
+
+.expUnit .project-list li
+{
+    list-style-type: circle;
+	margin-left:15px;
+}
+
+.timeline-col-dvdr
+{
+	height:15px;
+}
+
+#skills-col
+{
+	margin-left:20px;
+	width:260px;
+	float:left;
+}
+
+.skill-list
+{
+	margin-left:10px;
+	margin-top:15px;
+}
+
+.skill-list li
+{
+    border-bottom:1px dotted black;
+    position:relative;
+    height:18px;
+	line-height:18px;
+	margin-left:10px;
+	margin-top:3px;
+}
+
+.skill-list li span{
+    display:inline-block;
+    position:relative;
+    background:white;
+    bottom:-6px;
+    height:100%;
+    padding:0 0px; 
+}
+
+.skill-list li .skillRtng{
+    position:absolute;
+    right:0;
+}
+
+.skill-list-dvdr
+{
+	height:15px;
+}
+
