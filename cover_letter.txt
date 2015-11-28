@@ -1,14 +1,16 @@
 Dear Recruiter:
 
-In response to your job ad on <???>, I would like to introduce myself and express my interest in the Enterprise Java position.  I am a software engineer and have spent most of my 14 year career developing web, client-server, and batch applications using Java, its related frameworks, various RDBMSs and UNIX/Linux.  While passionate about the mentioned technologies, I am just as excited to embark on new ones in our ever-evolving field.
+In response to your job ad on Dice.com, I would like to introduce myself and express my interest in the position of .Web Services Developer with Blackstone Technology.  I am a software engineer and have spent most of my 15 year career developing web, client-server, and batch applications using Java, its related frameworks, various RDBMSs and UNIX/Linux.  While passionate about the mentioned technologies, I am just as excited to embark on new ones in our ever-evolving field.
 
-My latest job was with Boxtone, which was acquired by Good Technology in April and from which I was laid off in a round of post-acquisition layoffs in August. I worked as a server-side developer of a mobile device management (MDM) application, focusing on Java, REST services, cryptography, asynchronous I/O, Python, Android and iOS (only security- and policy-related mobile features, not app development).  We used Maven, Git, Jenkins, and Gerrit to support our development operations.  Our product ran on Ubuntu and RHEL and I am well familiar with those OSs.
+My latest contract was with EEOC as a Java Developer working on JSF/PrimeFaces web applications backed by an Oracle DB, which ended in October. Previously, I was working full-time at Boxtone, which was acquired by Good Technology in April 2014, as a server-side developer of a mobile device management (MDM) application, focusing on Java, REST services, cryptography, asynchronous I/O, Python, Android and iOS (only security- and policy-related mobile features, not app development).  We used Maven, Git, Jenkins, and Gerrit to support our development operations.  Our product ran on Ubuntu and RHEL and I am well familiar with those OSs.
 
-If this sounds interesting to you, give me a call--I would love to hear from you.  My resume can be viewed at www.amphibient.com and I can be reached at 202-251-7001 or amakarevic@yahoo.com.
+If this sounds interesting to you, give me a call--I would love to hear from you.  My resume can be viewed at www.creekwise.com and I can be reached at 202-251-7001 or amakarevic@yahoo.com.
 
 Yours,
 
 Asad
+
+-------------------------
 
 
 
