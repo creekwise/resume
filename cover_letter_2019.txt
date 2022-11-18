@@ -1,0 +1,22 @@
+Dear Recruiter:
+
+In response to your job ad on [source], I would like to introduce myself and express my interest in the position of [title] with [company].  I am a software engineer and have spent most of my almost 20 year career developing web, client-server, and batch applications using Java, its related frameworks, various RDBMSs and UNIX/Linux. More recently, I have applied that experience in the realm of team integration, structure and processes, as a DevOps engineer at the NIH. While passionate about the mentioned technologies, I am just as excited to embark on new ones in our ever-evolving field.
+
+In my latest 2+ year contract with the NIH, which ended last October amid reductions in government funding, I fully automated the integration (unified build + deployment to various instances and environments) of all application tiers of the scientific data collection platform BRICS using Jenkins, Python, PostgreSQLand Linux OS. In order to prime the application for continuous integration, extensive code refactoring was needed (relative to its prior state) in order to remove implementation specific references, which was also done by me in Java/Spring and various other application tiers. I would like to point out that I also devised a database versioning and deployment methodology in Python/PostgreSQL, and automated it in in Jenkins so that database changes would flow seamlessly between developers and integration instances without a need for manual application.
+
+The continuous integration of BRICS was a collosal undertaking which I like to compare to tidying up a house after years of neglect and disrepair, which amplified my strong proclivities for structure and order. I would like to continue in the direction of DevOps or application as well as team architecture because I believe that configuration trumps individual components. I also believe that my extensive experience as a full stack developer, which includes system administration and infrastructure, gives me a cutting edge competitive advantage to implememt continuous integration and deployment regimens in previously disordered environments. In short, I see my future efforts dedicated primarily to fighting for order and minimizing chaos, and secondarily to actual code writing.
+
+Since I left the NIH, I first took a sabbatical to renovate some real estate that I own (I am also a "full stack" home builder) but now am ready to re-enter the workforce, fight chaos and establish order in software development teams. If this sounds interesting to you, give me a call--I would love to hear from you.  My resume can be viewed at www.prior-probability.com and I can be reached at 202-251-7001 or amakarevic@yahoo.com. I am a U.S. citizen.
+
+Yours,
+
+Asad
+
+-------------------------
+
+java, python, git, spring, jenkins
+
+continuous integration, devops
+
+Devops Engineer
+
