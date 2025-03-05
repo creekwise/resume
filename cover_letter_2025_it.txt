@@ -6,7 +6,7 @@ My qualifications can be divided in two main areas. First is application develop
 
 While most of my time in the last several years has been occupied in construction and being a stay-at-home father to a 5 year old, I have also developed a dara repository aggregating river flow data available from US Geological Survey RESTful web services, using Postgres and Python. It is an analytical hobbyhorse of mine combining my passions for data, scripting, and whitewater kayaking. As for my activities in construction and real estate development, they now provide me with a supplemental stream of passive income and can provide further details in a conversation if you are interested, to avoid belaboring.
 
-If this sounds interesting, please let me know in email and I will provide you with my phone number.
+If this sounds interesting, please let me know in email and I will provide you with my phone number. I am a U.S. citizen.
 
 Sincerely,
 
