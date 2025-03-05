@@ -1,1 +1,13 @@
-Hello Asko
+Hello:
+
+I am writing in response to your <platform> job posting for <job-title>. I am currently looking to go back to conventional employment after a 6 year period of pursuing other goals, such as building a real estate portfolio and being a stay-at-home father. 
+
+My qualifications can be divided in two main areas. First is application development with strengths in database design and optimization (such as but not limited to Postgres), backend scripting using Python for data analytics, and building web applications using Java. Second is DevOps, to which I transitioned during my last job at Sapient, where I started as a full stack developer but the team badly needed continuous integration and other teamwork optimization so I implemented a build automation platform using Jenkins and supported by Maven, Python, Linux server administration and shell scripting. I also managed deployments to multiple NIH agencies using the Biomedical Research Informatics Computing System (BRICS), a research data collection and repository application.
+
+While most of my time in the last several years has been occupied in construction and being a stay-at-home father to a 5 year old, I have also developed a dara repository aggregating river flow data available from US Geological Survey RESTful web services, using Postgres and Python. It is an analytical hobbyhorse of mine combining my passions for data, scripting, and whitewater kayaking. As for my activities in construction and real estate development, they now provide me with a supplemental stream of passive income and can provide further details in a conversation if you are interested, to avoid belaboring.
+
+If this sounds interesting, please let me know in email and I will provide you with my phone number.
+
+Sincerely,
+
+Asko
